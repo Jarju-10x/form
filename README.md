@@ -1,4 +1,4 @@
 # form valid
 
 form validation
-this form checks the data entered by user and will throw error on wrong entry
+Simple form filling program in HTML and CSS
